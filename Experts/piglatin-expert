@@ -1,0 +1,25 @@
+nodes:
+  - id: bKCYzxzaOXy9ZfNRLQV7d
+    type: llm
+    position:
+      x: 600
+      'y': 272.25
+    data:
+      id: bKCYzxzaOXy9ZfNRLQV7d
+      title: piglatin translator
+      input: ''
+      slashgptManifest: piglatin.model
+      toolJson: ''
+      toolCode: ''
+      outputType: overwrite
+      outputToCanvas: false
+      useUserQuery: false
+      flowState:
+        backend: git
+        repo: studio-app-testing
+    width: 212
+    height: 466
+    selected: true
+    dragging: false
+edges: []
+description: null
