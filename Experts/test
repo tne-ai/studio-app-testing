@@ -1,0 +1,25 @@
+nodes:
+  - id: p9tYGef3sV7nf6VyzvzAN
+    type: llm
+    position:
+      x: 668
+      'y': 241.375
+    data:
+      id: p9tYGef3sV7nf6VyzvzAN
+      title: New Model
+      input: ''
+      slashgptManifest: piglatin.model
+      toolJson: ''
+      toolCode: ''
+      outputType: overwrite
+      outputToCanvas: false
+      useUserQuery: false
+      flowState:
+        backend: git
+        repo: studio-app-testing
+    width: 212
+    height: 466
+    selected: true
+    dragging: false
+edges: []
+description: null
