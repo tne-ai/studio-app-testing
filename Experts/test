@@ -1,3 +1,45 @@
-nodes: []
+nodes:
+  - id: uuC15uzL3WJ5n9APrp3Vb
+    type: llm
+    position:
+      x: 392
+      'y': 299.625
+    data:
+      id: uuC15uzL3WJ5n9APrp3Vb
+      title: New Model
+      input: ''
+      slashgptManifest: piglatin.model
+      toolJson: ''
+      toolCode: ''
+      outputType: overwrite
+      outputToCanvas: false
+      useUserQuery: false
+      flowState:
+        backend: git
+        repo: studio-app-testing
+        content:
+          name: test
+          path: Experts/test
+          sha: c389f6cb1a92bc057f8244e66f08b9ef1736553e
+          size: 38
+          url: >-
+            https://api.github.com/repos/tne-ai/studio-app-testing/contents/Experts/test?ref=main
+          html_url: https://github.com/tne-ai/studio-app-testing/blob/main/Experts/test
+          git_url: >-
+            https://api.github.com/repos/tne-ai/studio-app-testing/git/blobs/c389f6cb1a92bc057f8244e66f08b9ef1736553e
+          download_url: >-
+            https://raw.githubusercontent.com/tne-ai/studio-app-testing/main/Experts/test
+          type: file
+          _links:
+            self: >-
+              https://api.github.com/repos/tne-ai/studio-app-testing/contents/Experts/test?ref=main
+            git: >-
+              https://api.github.com/repos/tne-ai/studio-app-testing/git/blobs/c389f6cb1a92bc057f8244e66f08b9ef1736553e
+            html: >-
+              https://github.com/tne-ai/studio-app-testing/blob/main/Experts/test
+    width: 212
+    height: 466
+    selected: true
+    dragging: false
 edges: []
 description: null
